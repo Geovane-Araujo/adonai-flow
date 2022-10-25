@@ -43,6 +43,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.atom</groupId>
+            <artifactId>atom-framework</artifactId>
+            <version>3.2.1</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
@@ -61,5 +67,11 @@
             </plugin>
         </plugins>
     </build>
+
+    <repositories>
+        <repository> <id>myMavenRepo.read</id>
+            <url>https://mymavenrepo.com/repo/go9Ye7KC7xaSZHqFec9g/</url>
+        </repository>
+    </repositories>
 
 </project>
