@@ -7,4 +7,4 @@
 * N/A
 
 #### Novas Funcionalidades
-* N/A
+* AFW-4 - Criação de criação de conta

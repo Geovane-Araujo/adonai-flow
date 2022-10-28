@@ -1,0 +1,1 @@
+alter table flow_users add nome varchar(70);
